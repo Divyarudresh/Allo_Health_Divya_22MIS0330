@@ -2,7 +2,7 @@
 
 **Developed by Divya R (22MIS0330)**
 
-A warehouse inventory app where users browse health products, reserve stock for a limited time, and either confirm or release reservations. Stock is tracked per product per warehouse with pessimistic-style locking via database transactions.
+A warehouse inventory app where users browse health products, reserve stock for a limited time, and either confirm or release reservations. Stock is tracked per product per warehouse with pessimistic-style locking via database transactions. **(Check output screenshots uploaded)**
 
 ---
 
