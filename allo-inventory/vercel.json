@@ -5,7 +5,7 @@
         "/api/cron/release-expired",
 
       "schedule":
-        "*/1 * * * *"
+        "0 0 * * *"
     }
   ]
 }
